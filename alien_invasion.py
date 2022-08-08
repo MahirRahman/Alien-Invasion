@@ -74,6 +74,7 @@ class AlienInvasion:
         '''Respond to ship being hit'''
         if self.stats.ships_left > 0:
             self.stats.ships_left -= 1
+            self.scoreboard.prep_ships()
             self.aliens.empty()
             self.bullets.empty()
             
@@ -154,6 +155,7 @@ class AlienInvasion:
 
             self.scoreboard.prep_score()
             self.scoreboard.prep_level()
+            self.scoreboard.prep_ships()
 
             pygame.mouse.set_visible(False)              
                 

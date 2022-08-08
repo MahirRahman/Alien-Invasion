@@ -24,7 +24,7 @@ class Settings:
         self.fleet_direction = 1
 
         # Dynamic settings
-        self.speedup_scale = 2.0
+        self.speedup_scale = 1.4
         self.score_scale = 1.5
         self.initialize_dynamic_settings()
 
