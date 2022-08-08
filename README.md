@@ -34,7 +34,8 @@
 <h3 align="center">Alien Invasion</h3>
 
   <p align="center">
-   In Alien Invasion, the player controls a rocket ship that appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player shoots all the aliens, a new fleet appears that moves faster than the previous fleet. If any alien hits the player’s ship or reaches the bottom of the screen, the player loses a ship. If the player loses three ships, the game ends.
+   In Alien Invasion, the player controls a rocket ship that appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player shoots all the aliens, a new fleet appears that moves faster than the previous fleet. If any alien hits the player’s ship or reaches the bottom of the screen, the player loses a ship. If the player loses three ships, the game ends. <br />
+    <img src="/images/alien_invasion_demo.png" alt="MarineGEO circle logo" style="height: 500px; width:600px;"/>
    <br />
     <br />
     <a href="https://github.com/MahirRahman/AnonymousBlogWriter/issues">Report Bug</a>
@@ -42,13 +43,10 @@
     <a href="https://github.com/MahirRahman/AnonymousBlogWriter/issues">Request Feature</a>
   </p>
 </div>
-![alien_invasion_demo](https://user-images.githubusercontent.com/90289470/183319760-92f9d1e5-d76a-4b6e-8f65-a6a09707413c.png)
 
 ### Built With
-
-* ![Django][Django]
 * ![Python][Python]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -58,12 +56,11 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
