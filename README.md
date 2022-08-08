@@ -61,21 +61,25 @@ To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
 
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+  python install pip
+  ```
+* pipenv
+  ```sh
+  pip install pipenv
   ```
 
 ### Installation
 12. Clone the repo
    ```sh
-   git clone https://github.com/MahirRahman/AnonymousBlogWriter.git
+   git clone https://github.com/MahirRahman/Alien-Invasion.git
    ```
-2. Install NPM packages
+2. Install required packages from Pipfile.lock
    ```sh
-   npm install
+   pipenv install
    ```
-3. Go to terminal and run this command: py[or python] manage.py runserver  0.0.0.0:8000
+3. Go to terminal and run this command: py[or python] alien_invasion.py
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -102,7 +106,7 @@ Don't forget to give the project a star! Thanks again!
 
 Mahir Rahman - rahmanm7@miamioh.edu
 
-Project Link: [https://github.com/MahirRahman/AnonymousBlogWriter](https://github.com/MahirRahman/AnonymousBlogWriter)
+Project Link: [https://github.com/MahirRahman/Alien-Invasion](https://github.com/MahirRahman/Alien-Invasion)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,7 +116,7 @@ Project Link: [https://github.com/MahirRahman/AnonymousBlogWriter](https://githu
 ## Acknowledgments
 
 * This ReadMe.md tempate was taken from: https://github.com/othneildrew/Best-README-Template
-* This project idea was inspired by Kalob Taulien
+* This project idea was inspired by Eric Matthes
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -120,19 +124,16 @@ Project Link: [https://github.com/MahirRahman/AnonymousBlogWriter](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
-[contributors-url]: https://github.com/MahirRahman/AnonymousBlogWriter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
-[forks-url]: https://github.com/MahirRahman/AnonymousBlogWriter/network/members
-[stars-shield]: https://img.shields.io/github/stars/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
-[stars-url]: https://github.com/MahirRahman/AnonymousBlogWriter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
-[issues-url]: https://github.com/MahirRahman/AnonymousBlogWriter/issues
-[license-shield]: https://img.shields.io/github/license/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
-[license-url]: https://github.com/MahirRahman/AnonymousBlogWriter/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/MahirRahman/Alien-Invasion.svg?style=for-the-badge
+[contributors-url]: https://github.com/MahirRahman/Alien-Invasion/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MahirRahman/Alien-Invasion.svg?style=for-the-badge
+[forks-url]: https://github.com/MahirRahman/Alien-Invasion/network/members
+[stars-shield]: https://img.shields.io/github/stars/MahirRahman/Alien-Invasion.svg?style=for-the-badge
+[stars-url]: https://github.com/MahirRahman/Alien-Invasion/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MahirRahman/Alien-Invasion.svg?style=for-the-badge
+[issues-url]: https://github.com/MahirRahman/Alien-Invasion/issues
+[license-shield]: https://img.shields.io/github/license/MahirRahman/Alien-Invasion.svg?style=for-the-badge
+[license-url]: https://github.com/MahirRahman/Alien-Invasion/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mahirrahman
-[Django]: https://img.shields.io/pypi/djversions/djangorestframework?style=for-the-badge
-[Python]: https://img.shields.io/github/pipenv/locked/python-version/MahirRahman/AnonymousBlogWriter?style=for-the-badge
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+[Python]: https://img.shields.io/github/pipenv/locked/python-version/MahirRahman/Alien-Invasion?style=for-the-badge
