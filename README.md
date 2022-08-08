@@ -42,7 +42,7 @@
     <a href="https://github.com/MahirRahman/AnonymousBlogWriter/issues">Request Feature</a>
   </p>
 </div>
-[![Product Name Screen Shot][product-screenshot]](/images/alien_invasion_demo.png?raw=true)
+![alien_invasion_demo](https://user-images.githubusercontent.com/90289470/183319760-92f9d1e5-d76a-4b6e-8f65-a6a09707413c.png)
 
 ### Built With
 
@@ -131,7 +131,6 @@ Project Link: [https://github.com/MahirRahman/AnonymousBlogWriter](https://githu
 [stars-url]: https://github.com/MahirRahman/AnonymousBlogWriter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
 [issues-url]: https://github.com/MahirRahman/AnonymousBlogWriter/issues
-[product-screenshot]: /images/alien_invasion_demo.png?raw=true
 [license-shield]: https://img.shields.io/github/license/MahirRahman/AnonymousBlogWriter.svg?style=for-the-badge
 [license-url]: https://github.com/MahirRahman/AnonymousBlogWriter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
